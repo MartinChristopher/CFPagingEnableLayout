@@ -1,0 +1,16 @@
+PODS:
+  - CFPagingEnableLayout (0.0.1)
+
+DEPENDENCIES:
+  - CFPagingEnableLayout (from `../`)
+
+EXTERNAL SOURCES:
+  CFPagingEnableLayout:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CFPagingEnableLayout: 55351e549a441a12b3fe7c39be8afc554bc49dcf
+
+PODFILE CHECKSUM: e6a1509a2f253344a90e8005e3cbccbb996ed131
+
+COCOAPODS: 1.11.3

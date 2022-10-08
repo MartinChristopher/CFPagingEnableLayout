@@ -1,0 +1,6 @@
+framework module CFPagingEnableLayout {
+  umbrella header "CFPagingEnableLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}
